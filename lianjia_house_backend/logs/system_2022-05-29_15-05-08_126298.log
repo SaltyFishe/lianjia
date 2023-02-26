@@ -1,0 +1,4 @@
+2022-05-29 15:05:25.743 | INFO     | crawler.crawler:run:210 - 开始采集第15页数据！
+2022-05-29 15:05:34.989 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第1个房子的数据！url https://mas.lianjia.com/ershoufang/103117442627.html
+2022-05-29 15:05:40.653 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 15:05:40.656 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第2个房子的数据！url https://mas.lianjia.com/ershoufang/103118236031.html

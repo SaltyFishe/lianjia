@@ -1,0 +1,103 @@
+2022-05-29 14:45:52.163 | INFO     | crawler.crawler:run:210 - 开始采集第15页数据！
+2022-05-29 14:45:52.164 | INFO     | crawler.crawler:start:238 - 启动采集成功
+2022-05-29 14:46:01.463 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第1个房子的数据！url https://mas.lianjia.com/ershoufang/103119349302.html
+2022-05-29 14:46:06.330 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:06.332 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第2个房子的数据！url https://mas.lianjia.com/ershoufang/103120005431.html
+2022-05-29 14:46:11.366 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:11.386 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第3个房子的数据！url https://mas.lianjia.com/ershoufang/103117442627.html
+2022-05-29 14:46:16.121 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:16.136 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第4个房子的数据！url https://mas.lianjia.com/ershoufang/103120177114.html
+2022-05-29 14:46:20.662 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:20.664 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第5个房子的数据！url https://mas.lianjia.com/ershoufang/103119429305.html
+2022-05-29 14:46:25.331 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:25.337 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第6个房子的数据！url https://mas.lianjia.com/ershoufang/103116839643.html
+2022-05-29 14:46:29.642 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:29.644 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第7个房子的数据！url https://mas.lianjia.com/ershoufang/103119072224.html
+2022-05-29 14:46:33.866 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:33.868 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第8个房子的数据！url https://mas.lianjia.com/ershoufang/103114950130.html
+2022-05-29 14:46:38.046 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:38.048 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第9个房子的数据！url https://mas.lianjia.com/ershoufang/103119109686.html
+2022-05-29 14:46:42.321 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:42.324 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第10个房子的数据！url https://mas.lianjia.com/ershoufang/103118317826.html
+2022-05-29 14:46:46.777 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:46.780 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第11个房子的数据！url https://mas.lianjia.com/ershoufang/103117910652.html
+2022-05-29 14:46:51.232 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:51.240 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第12个房子的数据！url https://mas.lianjia.com/ershoufang/103117217492.html
+2022-05-29 14:46:55.622 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:46:55.625 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第13个房子的数据！url https://mas.lianjia.com/ershoufang/103117083505.html
+2022-05-29 14:47:00.119 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:00.122 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第14个房子的数据！url https://mas.lianjia.com/ershoufang/103119723761.html
+2022-05-29 14:47:04.293 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:04.295 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第15个房子的数据！url https://mas.lianjia.com/ershoufang/103120084021.html
+2022-05-29 14:47:08.545 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:08.547 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第16个房子的数据！url https://mas.lianjia.com/ershoufang/103120055689.html
+2022-05-29 14:47:13.016 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:13.018 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第17个房子的数据！url https://mas.lianjia.com/ershoufang/103119561954.html
+2022-05-29 14:47:17.628 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:17.630 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第18个房子的数据！url https://mas.lianjia.com/ershoufang/103120153522.html
+2022-05-29 14:47:21.816 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:21.833 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第19个房子的数据！url https://mas.lianjia.com/ershoufang/103118324938.html
+2022-05-29 14:47:26.450 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:26.454 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第20个房子的数据！url https://mas.lianjia.com/ershoufang/103119511579.html
+2022-05-29 14:47:30.774 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:30.780 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第21个房子的数据！url https://mas.lianjia.com/ershoufang/103119260352.html
+2022-05-29 14:47:35.431 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:35.434 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第22个房子的数据！url https://mas.lianjia.com/ershoufang/103115464340.html
+2022-05-29 14:47:39.731 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:39.738 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第23个房子的数据！url https://mas.lianjia.com/ershoufang/103115581218.html
+2022-05-29 14:47:44.140 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:44.143 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第24个房子的数据！url https://mas.lianjia.com/ershoufang/103118802557.html
+2022-05-29 14:47:48.504 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:47:48.506 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第25个房子的数据！url https://mas.lianjia.com/ershoufang/103119192205.html
+2022-05-29 14:52:50.559 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 Message: timeout: Timed out receiving message from renderer: 299.183
+  (Session info: chrome=101.0.4951.67)
+，等待一段时间
+2022-05-29 14:52:50.563 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第26个房子的数据！url https://mas.lianjia.com/ershoufang/103114665211.html
+2022-05-29 14:52:55.360 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '您的主机中的软件中止了一个已建立的连接。', None, 10053, None))")，等待一段时间
+2022-05-29 14:52:55.422 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第27个房子的数据！url https://mas.lianjia.com/ershoufang/103120182015.html
+2022-05-29 14:52:59.787 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 (0, '')，等待一段时间
+2022-05-29 14:52:59.790 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第28个房子的数据！url https://mas.lianjia.com/ershoufang/103120135904.html
+2022-05-29 14:53:04.446 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 (0, '')，等待一段时间
+2022-05-29 14:53:04.452 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第29个房子的数据！url https://mas.lianjia.com/ershoufang/103118098457.html
+2022-05-29 14:54:09.165 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 (0, '')，等待一段时间
+2022-05-29 14:54:09.168 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第30个房子的数据！url https://mas.lianjia.com/ershoufang/103116555473.html
+2022-05-29 14:54:14.175 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 (0, '')，等待一段时间
+2022-05-29 14:54:14.197 | INFO     | crawler.crawler:run:215 - 采集第15页数据完成！
+2022-05-29 14:54:14.200 | INFO     | crawler.crawler:run:210 - 开始采集第16页数据！
+2022-05-29 14:54:22.063 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第1个房子的数据！url https://mas.lianjia.com/ershoufang/103118908592.html
+2022-05-29 14:54:26.240 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 (0, '')，等待一段时间
+2022-05-29 14:54:26.242 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第2个房子的数据！url https://mas.lianjia.com/ershoufang/103118780127.html
+2022-05-29 14:54:30.642 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 (0, '')，等待一段时间
+2022-05-29 14:54:30.644 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第3个房子的数据！url https://mas.lianjia.com/ershoufang/103117275082.html
+2022-05-29 14:54:34.762 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 (0, '')，等待一段时间
+2022-05-29 14:54:34.768 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第4个房子的数据！url https://mas.lianjia.com/ershoufang/103118363388.html
+2022-05-29 14:55:43.485 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/source (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000060B0A20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:55:43.489 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第5个房子的数据！url https://mas.lianjia.com/ershoufang/103116567341.html
+2022-05-29 14:55:49.500 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000060B09B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:55:49.503 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第6个房子的数据！url https://mas.lianjia.com/ershoufang/103120294825.html
+2022-05-29 14:55:55.509 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D43F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:55:55.512 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第7个房子的数据！url https://mas.lianjia.com/ershoufang/103120414544.html
+2022-05-29 14:56:01.537 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D43B38>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:01.540 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第8个房子的数据！url https://mas.lianjia.com/ershoufang/103120307613.html
+2022-05-29 14:56:07.560 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006090A58>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:07.570 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第9个房子的数据！url https://mas.lianjia.com/ershoufang/103120252601.html
+2022-05-29 14:56:13.589 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006090C50>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:13.604 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第10个房子的数据！url https://mas.lianjia.com/ershoufang/103120334431.html
+2022-05-29 14:56:19.619 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006090160>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:19.623 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第11个房子的数据！url https://mas.lianjia.com/ershoufang/103120459228.html
+2022-05-29 14:56:25.656 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006090358>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:25.666 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第12个房子的数据！url https://mas.lianjia.com/ershoufang/103120269150.html
+2022-05-29 14:56:31.682 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000060A3080>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:31.687 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第13个房子的数据！url https://mas.lianjia.com/ershoufang/103120447156.html
+2022-05-29 14:56:37.803 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D1D6D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:37.806 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第14个房子的数据！url https://mas.lianjia.com/ershoufang/103120410208.html
+2022-05-29 14:56:43.875 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000060A3BE0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:43.877 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第15个房子的数据！url https://mas.lianjia.com/ershoufang/103114724793.html
+2022-05-29 14:56:49.895 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D2A518>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:49.897 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第16个房子的数据！url https://mas.lianjia.com/ershoufang/103114721641.html
+2022-05-29 14:56:55.913 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D1D0B8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:56:55.916 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第17个房子的数据！url https://mas.lianjia.com/ershoufang/103116500231.html
+2022-05-29 14:57:01.933 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D2A940>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:57:01.937 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第18个房子的数据！url https://mas.lianjia.com/ershoufang/103116822865.html
+2022-05-29 14:57:07.946 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=57842): Max retries exceeded with url: /session/e7a163f77b3818ce6cfacba89d08f433/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D1DCC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:57:07.956 | INFO     | crawler.crawler:get_page_info:196 - 采集16页共30个房子，当前第19个房子的数据！url https://mas.lianjia.com/ershoufang/103119073624.html

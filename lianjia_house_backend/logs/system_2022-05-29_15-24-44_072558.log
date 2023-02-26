@@ -1,0 +1,6 @@
+2022-05-29 15:24:58.089 | INFO     | crawler.crawler:run:212 - 开始采集第1页数据！
+2022-05-29 15:25:06.406 | INFO     | crawler.crawler:run:216 - 采集异常，('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2022-05-29 15:25:06.407 | INFO     | crawler.crawler:run:219 - 采集第1页数据完成！
+2022-05-29 15:25:06.408 | INFO     | crawler.crawler:run:212 - 开始采集第2页数据！
+2022-05-29 15:25:10.424 | INFO     | crawler.crawler:run:216 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=64231): Max retries exceeded with url: /session/4c0f77a193901beecc396cbe3f0321d5/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005BC5F98>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 15:25:10.425 | INFO     | crawler.crawler:start:242 - 处理成功！

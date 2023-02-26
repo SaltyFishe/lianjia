@@ -1,0 +1,316 @@
+2022-05-29 14:22:19.748 | INFO     | crawler.crawler:run:210 - 开始采集第15页数据！
+2022-05-29 14:22:19.749 | INFO     | crawler.crawler:start:238 - 启动采集成功
+2022-05-29 14:22:29.961 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第1个房子的数据！url https://mas.lianjia.com/ershoufang/103120177114.html
+2022-05-29 14:22:35.707 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:22:35.774 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第2个房子的数据！url https://mas.lianjia.com/ershoufang/103117442627.html
+2022-05-29 14:22:41.115 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:22:41.129 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第3个房子的数据！url https://mas.lianjia.com/ershoufang/103118236031.html
+2022-05-29 14:22:49.138 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:22:49.214 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第4个房子的数据！url https://mas.lianjia.com/ershoufang/103120005431.html
+2022-05-29 14:22:53.811 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:22:53.818 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第5个房子的数据！url https://mas.lianjia.com/ershoufang/103119349302.html
+2022-05-29 14:22:58.800 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:22:58.804 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第6个房子的数据！url https://mas.lianjia.com/ershoufang/103119429305.html
+2022-05-29 14:23:05.200 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:05.204 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第7个房子的数据！url https://mas.lianjia.com/ershoufang/103114950130.html
+2022-05-29 14:23:09.526 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:09.528 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第8个房子的数据！url https://mas.lianjia.com/ershoufang/103119072224.html
+2022-05-29 14:23:13.923 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:13.926 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第9个房子的数据！url https://mas.lianjia.com/ershoufang/103118317826.html
+2022-05-29 14:23:17.899 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:17.901 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第10个房子的数据！url https://mas.lianjia.com/ershoufang/103116839643.html
+2022-05-29 14:23:22.949 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:22.952 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第11个房子的数据！url https://mas.lianjia.com/ershoufang/103119109686.html
+2022-05-29 14:23:27.350 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:27.354 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第12个房子的数据！url https://mas.lianjia.com/ershoufang/103117910652.html
+2022-05-29 14:23:34.478 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:34.510 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第13个房子的数据！url https://mas.lianjia.com/ershoufang/103120153522.html
+2022-05-29 14:23:38.883 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:38.888 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第14个房子的数据！url https://mas.lianjia.com/ershoufang/103119561954.html
+2022-05-29 14:23:43.724 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:43.728 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第15个房子的数据！url https://mas.lianjia.com/ershoufang/103120084021.html
+2022-05-29 14:23:49.472 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:49.474 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第16个房子的数据！url https://mas.lianjia.com/ershoufang/103120055689.html
+2022-05-29 14:23:53.921 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:53.923 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第17个房子的数据！url https://mas.lianjia.com/ershoufang/103117083505.html
+2022-05-29 14:23:58.828 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:23:58.831 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第18个房子的数据！url https://mas.lianjia.com/ershoufang/103119723761.html
+2022-05-29 14:24:07.202 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:24:07.208 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第19个房子的数据！url https://mas.lianjia.com/ershoufang/103117217492.html
+2022-05-29 14:24:11.371 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:24:11.375 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第20个房子的数据！url https://mas.lianjia.com/ershoufang/103118324938.html
+2022-05-29 14:24:18.620 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:24:18.633 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第21个房子的数据！url https://mas.lianjia.com/ershoufang/103119511579.html
+2022-05-29 14:24:22.958 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:24:22.961 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第22个房子的数据！url https://mas.lianjia.com/ershoufang/103119260352.html
+2022-05-29 14:24:29.941 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:24:29.943 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第23个房子的数据！url https://mas.lianjia.com/ershoufang/103115581218.html
+2022-05-29 14:24:35.883 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:24:35.886 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第24个房子的数据！url https://mas.lianjia.com/ershoufang/103115464340.html
+2022-05-29 14:24:40.045 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:24:40.048 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第25个房子的数据！url https://mas.lianjia.com/ershoufang/103118802557.html
+2022-05-29 14:25:45.627 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:25:45.631 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第26个房子的数据！url https://mas.lianjia.com/ershoufang/103120182015.html
+2022-05-29 14:25:49.946 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:25:49.949 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第27个房子的数据！url https://mas.lianjia.com/ershoufang/103119192205.html
+2022-05-29 14:26:55.890 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:26:55.906 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第28个房子的数据！url https://mas.lianjia.com/ershoufang/103114665211.html
+2022-05-29 14:27:00.322 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:27:00.325 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第29个房子的数据！url https://mas.lianjia.com/ershoufang/103120135904.html
+2022-05-29 14:27:05.237 | INFO     | crawler.crawler:get_house_detail:171 - 更新数据库表！
+2022-05-29 14:27:05.244 | INFO     | crawler.crawler:get_page_info:196 - 采集15页共30个房子，当前第30个房子的数据！url https://mas.lianjia.com/ershoufang/103118098457.html
+2022-05-29 14:27:11.275 | ERROR    | crawler.crawler:get_house_detail:173 - 采集异常 HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C26710>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))，等待一段时间
+2022-05-29 14:27:11.280 | INFO     | crawler.crawler:run:215 - 采集第15页数据完成！
+2022-05-29 14:27:11.282 | INFO     | crawler.crawler:run:210 - 开始采集第16页数据！
+2022-05-29 14:27:15.298 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006226F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:15.301 | INFO     | crawler.crawler:run:215 - 采集第16页数据完成！
+2022-05-29 14:27:15.304 | INFO     | crawler.crawler:run:210 - 开始采集第17页数据！
+2022-05-29 14:27:19.329 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C29080>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:19.331 | INFO     | crawler.crawler:run:215 - 采集第17页数据完成！
+2022-05-29 14:27:19.333 | INFO     | crawler.crawler:run:210 - 开始采集第18页数据！
+2022-05-29 14:27:23.531 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C26080>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:23.588 | INFO     | crawler.crawler:run:215 - 采集第18页数据完成！
+2022-05-29 14:27:23.601 | INFO     | crawler.crawler:run:210 - 开始采集第19页数据！
+2022-05-29 14:27:27.617 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000008069748>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:27.621 | INFO     | crawler.crawler:run:215 - 采集第19页数据完成！
+2022-05-29 14:27:27.623 | INFO     | crawler.crawler:run:210 - 开始采集第20页数据！
+2022-05-29 14:27:31.638 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C26358>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:31.641 | INFO     | crawler.crawler:run:215 - 采集第20页数据完成！
+2022-05-29 14:27:31.642 | INFO     | crawler.crawler:run:210 - 开始采集第21页数据！
+2022-05-29 14:27:35.653 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000065A66A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:35.656 | INFO     | crawler.crawler:run:215 - 采集第21页数据完成！
+2022-05-29 14:27:35.658 | INFO     | crawler.crawler:run:210 - 开始采集第22页数据！
+2022-05-29 14:27:39.668 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000063CB438>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:39.671 | INFO     | crawler.crawler:run:215 - 采集第22页数据完成！
+2022-05-29 14:27:39.673 | INFO     | crawler.crawler:run:210 - 开始采集第23页数据！
+2022-05-29 14:27:43.692 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006BAD908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:43.697 | INFO     | crawler.crawler:run:215 - 采集第23页数据完成！
+2022-05-29 14:27:43.699 | INFO     | crawler.crawler:run:210 - 开始采集第24页数据！
+2022-05-29 14:27:47.733 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006586E80>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:47.737 | INFO     | crawler.crawler:run:215 - 采集第24页数据完成！
+2022-05-29 14:27:47.743 | INFO     | crawler.crawler:run:210 - 开始采集第25页数据！
+2022-05-29 14:27:51.887 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000065A6470>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:51.890 | INFO     | crawler.crawler:run:215 - 采集第25页数据完成！
+2022-05-29 14:27:51.891 | INFO     | crawler.crawler:run:210 - 开始采集第26页数据！
+2022-05-29 14:27:55.927 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000008208B70>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:55.930 | INFO     | crawler.crawler:run:215 - 采集第26页数据完成！
+2022-05-29 14:27:55.931 | INFO     | crawler.crawler:run:210 - 开始采集第27页数据！
+2022-05-29 14:27:59.972 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000063CB860>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:27:59.977 | INFO     | crawler.crawler:run:215 - 采集第27页数据完成！
+2022-05-29 14:27:59.979 | INFO     | crawler.crawler:run:210 - 开始采集第28页数据！
+2022-05-29 14:28:03.998 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000063CB630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:04.001 | INFO     | crawler.crawler:run:215 - 采集第28页数据完成！
+2022-05-29 14:28:04.003 | INFO     | crawler.crawler:run:210 - 开始采集第29页数据！
+2022-05-29 14:28:08.017 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000063CB588>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:08.019 | INFO     | crawler.crawler:run:215 - 采集第29页数据完成！
+2022-05-29 14:28:08.021 | INFO     | crawler.crawler:run:210 - 开始采集第30页数据！
+2022-05-29 14:28:12.033 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006572E10>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:12.037 | INFO     | crawler.crawler:run:215 - 采集第30页数据完成！
+2022-05-29 14:28:12.040 | INFO     | crawler.crawler:run:210 - 开始采集第31页数据！
+2022-05-29 14:28:16.055 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006BADD30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:16.058 | INFO     | crawler.crawler:run:215 - 采集第31页数据完成！
+2022-05-29 14:28:16.060 | INFO     | crawler.crawler:run:210 - 开始采集第32页数据！
+2022-05-29 14:28:20.077 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000082080F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:20.080 | INFO     | crawler.crawler:run:215 - 采集第32页数据完成！
+2022-05-29 14:28:20.082 | INFO     | crawler.crawler:run:210 - 开始采集第33页数据！
+2022-05-29 14:28:24.108 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006BA15F8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:24.110 | INFO     | crawler.crawler:run:215 - 采集第33页数据完成！
+2022-05-29 14:28:24.112 | INFO     | crawler.crawler:run:210 - 开始采集第34页数据！
+2022-05-29 14:28:28.114 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006572F98>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:28.117 | INFO     | crawler.crawler:run:215 - 采集第34页数据完成！
+2022-05-29 14:28:28.119 | INFO     | crawler.crawler:run:210 - 开始采集第35页数据！
+2022-05-29 14:28:32.138 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000081064A8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:32.140 | INFO     | crawler.crawler:run:215 - 采集第35页数据完成！
+2022-05-29 14:28:32.142 | INFO     | crawler.crawler:run:210 - 开始采集第36页数据！
+2022-05-29 14:28:36.164 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000008106F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:36.190 | INFO     | crawler.crawler:run:215 - 采集第36页数据完成！
+2022-05-29 14:28:36.196 | INFO     | crawler.crawler:run:210 - 开始采集第37页数据！
+2022-05-29 14:28:40.430 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007ED18D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:40.433 | INFO     | crawler.crawler:run:215 - 采集第37页数据完成！
+2022-05-29 14:28:40.434 | INFO     | crawler.crawler:run:210 - 开始采集第38页数据！
+2022-05-29 14:28:44.434 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000065A69E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:44.438 | INFO     | crawler.crawler:run:215 - 采集第38页数据完成！
+2022-05-29 14:28:44.442 | INFO     | crawler.crawler:run:210 - 开始采集第39页数据！
+2022-05-29 14:28:48.455 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C26F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:48.458 | INFO     | crawler.crawler:run:215 - 采集第39页数据完成！
+2022-05-29 14:28:48.459 | INFO     | crawler.crawler:run:210 - 开始采集第40页数据！
+2022-05-29 14:28:52.618 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005F3C160>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:52.621 | INFO     | crawler.crawler:run:215 - 采集第40页数据完成！
+2022-05-29 14:28:52.623 | INFO     | crawler.crawler:run:210 - 开始采集第41页数据！
+2022-05-29 14:28:56.638 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000080696A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:28:56.641 | INFO     | crawler.crawler:run:215 - 采集第41页数据完成！
+2022-05-29 14:28:56.642 | INFO     | crawler.crawler:run:210 - 开始采集第42页数据！
+2022-05-29 14:29:00.655 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000066549E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:00.658 | INFO     | crawler.crawler:run:215 - 采集第42页数据完成！
+2022-05-29 14:29:00.662 | INFO     | crawler.crawler:run:210 - 开始采集第43页数据！
+2022-05-29 14:29:04.678 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007F96550>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:04.682 | INFO     | crawler.crawler:run:215 - 采集第43页数据完成！
+2022-05-29 14:29:04.684 | INFO     | crawler.crawler:run:210 - 开始采集第44页数据！
+2022-05-29 14:29:08.701 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006654908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:08.704 | INFO     | crawler.crawler:run:215 - 采集第44页数据完成！
+2022-05-29 14:29:08.706 | INFO     | crawler.crawler:run:210 - 开始采集第45页数据！
+2022-05-29 14:29:12.718 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000063CB278>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:12.720 | INFO     | crawler.crawler:run:215 - 采集第45页数据完成！
+2022-05-29 14:29:12.721 | INFO     | crawler.crawler:run:210 - 开始采集第46页数据！
+2022-05-29 14:29:16.745 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006BAD080>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:16.748 | INFO     | crawler.crawler:run:215 - 采集第46页数据完成！
+2022-05-29 14:29:16.750 | INFO     | crawler.crawler:run:210 - 开始采集第47页数据！
+2022-05-29 14:29:20.763 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000627BCF8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:20.766 | INFO     | crawler.crawler:run:215 - 采集第47页数据完成！
+2022-05-29 14:29:20.768 | INFO     | crawler.crawler:run:210 - 开始采集第48页数据！
+2022-05-29 14:29:24.780 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007ED10B8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:24.786 | INFO     | crawler.crawler:run:215 - 采集第48页数据完成！
+2022-05-29 14:29:24.789 | INFO     | crawler.crawler:run:210 - 开始采集第49页数据！
+2022-05-29 14:29:28.810 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C37B38>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:28.813 | INFO     | crawler.crawler:run:215 - 采集第49页数据完成！
+2022-05-29 14:29:28.814 | INFO     | crawler.crawler:run:210 - 开始采集第50页数据！
+2022-05-29 14:29:32.829 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006572630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:32.833 | INFO     | crawler.crawler:run:215 - 采集第50页数据完成！
+2022-05-29 14:29:32.835 | INFO     | crawler.crawler:run:210 - 开始采集第51页数据！
+2022-05-29 14:29:36.848 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007ED1780>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:36.851 | INFO     | crawler.crawler:run:215 - 采集第51页数据完成！
+2022-05-29 14:29:36.853 | INFO     | crawler.crawler:run:210 - 开始采集第52页数据！
+2022-05-29 14:29:40.861 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005EF94A8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:40.864 | INFO     | crawler.crawler:run:215 - 采集第52页数据完成！
+2022-05-29 14:29:40.865 | INFO     | crawler.crawler:run:210 - 开始采集第53页数据！
+2022-05-29 14:29:44.891 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DA8BA8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:44.894 | INFO     | crawler.crawler:run:215 - 采集第53页数据完成！
+2022-05-29 14:29:44.895 | INFO     | crawler.crawler:run:210 - 开始采集第54页数据！
+2022-05-29 14:29:48.916 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000627B710>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:48.919 | INFO     | crawler.crawler:run:215 - 采集第54页数据完成！
+2022-05-29 14:29:48.920 | INFO     | crawler.crawler:run:210 - 开始采集第55页数据！
+2022-05-29 14:29:52.936 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000627BE48>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:52.939 | INFO     | crawler.crawler:run:215 - 采集第55页数据完成！
+2022-05-29 14:29:52.941 | INFO     | crawler.crawler:run:210 - 开始采集第56页数据！
+2022-05-29 14:29:57.045 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005EF9C88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:29:57.048 | INFO     | crawler.crawler:run:215 - 采集第56页数据完成！
+2022-05-29 14:29:57.054 | INFO     | crawler.crawler:run:210 - 开始采集第57页数据！
+2022-05-29 14:30:01.080 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000065358D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:01.083 | INFO     | crawler.crawler:run:215 - 采集第57页数据完成！
+2022-05-29 14:30:01.084 | INFO     | crawler.crawler:run:210 - 开始采集第58页数据！
+2022-05-29 14:30:05.096 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000065DBBA8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:05.099 | INFO     | crawler.crawler:run:215 - 采集第58页数据完成！
+2022-05-29 14:30:05.101 | INFO     | crawler.crawler:run:210 - 开始采集第59页数据！
+2022-05-29 14:30:09.111 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C37BA8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:09.115 | INFO     | crawler.crawler:run:215 - 采集第59页数据完成！
+2022-05-29 14:30:09.117 | INFO     | crawler.crawler:run:210 - 开始采集第60页数据！
+2022-05-29 14:30:13.136 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006BA1F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:13.139 | INFO     | crawler.crawler:run:215 - 采集第60页数据完成！
+2022-05-29 14:30:13.141 | INFO     | crawler.crawler:run:210 - 开始采集第61页数据！
+2022-05-29 14:30:17.164 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C37898>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:17.167 | INFO     | crawler.crawler:run:215 - 采集第61页数据完成！
+2022-05-29 14:30:17.168 | INFO     | crawler.crawler:run:210 - 开始采集第62页数据！
+2022-05-29 14:30:21.171 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006586860>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:21.173 | INFO     | crawler.crawler:run:215 - 采集第62页数据完成！
+2022-05-29 14:30:21.175 | INFO     | crawler.crawler:run:210 - 开始采集第63页数据！
+2022-05-29 14:30:25.187 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000082508D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:25.190 | INFO     | crawler.crawler:run:215 - 采集第63页数据完成！
+2022-05-29 14:30:25.194 | INFO     | crawler.crawler:run:210 - 开始采集第64页数据！
+2022-05-29 14:30:29.208 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007ED1BA8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:29.211 | INFO     | crawler.crawler:run:215 - 采集第64页数据完成！
+2022-05-29 14:30:29.213 | INFO     | crawler.crawler:run:210 - 开始采集第65页数据！
+2022-05-29 14:30:33.234 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006535400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:33.237 | INFO     | crawler.crawler:run:215 - 采集第65页数据完成！
+2022-05-29 14:30:33.238 | INFO     | crawler.crawler:run:210 - 开始采集第66页数据！
+2022-05-29 14:30:37.243 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006619710>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:37.246 | INFO     | crawler.crawler:run:215 - 采集第66页数据完成！
+2022-05-29 14:30:37.247 | INFO     | crawler.crawler:run:210 - 开始采集第67页数据！
+2022-05-29 14:30:41.270 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000627B080>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:41.273 | INFO     | crawler.crawler:run:215 - 采集第67页数据完成！
+2022-05-29 14:30:41.274 | INFO     | crawler.crawler:run:210 - 开始采集第68页数据！
+2022-05-29 14:30:45.302 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000082005C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:45.305 | INFO     | crawler.crawler:run:215 - 采集第68页数据完成！
+2022-05-29 14:30:45.307 | INFO     | crawler.crawler:run:210 - 开始采集第69页数据！
+2022-05-29 14:30:49.316 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006619080>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:49.318 | INFO     | crawler.crawler:run:215 - 采集第69页数据完成！
+2022-05-29 14:30:49.321 | INFO     | crawler.crawler:run:210 - 开始采集第70页数据！
+2022-05-29 14:30:53.331 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000627B780>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:53.336 | INFO     | crawler.crawler:run:215 - 采集第70页数据完成！
+2022-05-29 14:30:53.338 | INFO     | crawler.crawler:run:210 - 开始采集第71页数据！
+2022-05-29 14:30:57.351 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000008250588>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:30:57.355 | INFO     | crawler.crawler:run:215 - 采集第71页数据完成！
+2022-05-29 14:30:57.358 | INFO     | crawler.crawler:run:210 - 开始采集第72页数据！
+2022-05-29 14:31:01.384 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000657F550>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:01.389 | INFO     | crawler.crawler:run:215 - 采集第72页数据完成！
+2022-05-29 14:31:01.391 | INFO     | crawler.crawler:run:210 - 开始采集第73页数据！
+2022-05-29 14:31:05.426 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000082501D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:05.429 | INFO     | crawler.crawler:run:215 - 采集第73页数据完成！
+2022-05-29 14:31:05.431 | INFO     | crawler.crawler:run:210 - 开始采集第74页数据！
+2022-05-29 14:31:09.430 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006BA1F28>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:09.433 | INFO     | crawler.crawler:run:215 - 采集第74页数据完成！
+2022-05-29 14:31:09.436 | INFO     | crawler.crawler:run:210 - 开始采集第75页数据！
+2022-05-29 14:31:13.451 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000080691D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:13.456 | INFO     | crawler.crawler:run:215 - 采集第75页数据完成！
+2022-05-29 14:31:13.457 | INFO     | crawler.crawler:run:210 - 开始采集第76页数据！
+2022-05-29 14:31:17.468 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000627BAC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:17.473 | INFO     | crawler.crawler:run:215 - 采集第76页数据完成！
+2022-05-29 14:31:17.475 | INFO     | crawler.crawler:run:210 - 开始采集第77页数据！
+2022-05-29 14:31:21.495 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000082084A8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:21.500 | INFO     | crawler.crawler:run:215 - 采集第77页数据完成！
+2022-05-29 14:31:21.501 | INFO     | crawler.crawler:run:210 - 开始采集第78页数据！
+2022-05-29 14:31:25.507 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000821AEF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:25.509 | INFO     | crawler.crawler:run:215 - 采集第78页数据完成！
+2022-05-29 14:31:25.511 | INFO     | crawler.crawler:run:210 - 开始采集第79页数据！
+2022-05-29 14:31:29.531 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000627B9E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:29.534 | INFO     | crawler.crawler:run:215 - 采集第79页数据完成！
+2022-05-29 14:31:29.535 | INFO     | crawler.crawler:run:210 - 开始采集第80页数据！
+2022-05-29 14:31:33.545 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051ECF28>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:33.549 | INFO     | crawler.crawler:run:215 - 采集第80页数据完成！
+2022-05-29 14:31:33.554 | INFO     | crawler.crawler:run:210 - 开始采集第81页数据！
+2022-05-29 14:31:37.565 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007E116A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:37.568 | INFO     | crawler.crawler:run:215 - 采集第81页数据完成！
+2022-05-29 14:31:37.569 | INFO     | crawler.crawler:run:210 - 开始采集第82页数据！
+2022-05-29 14:31:41.580 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000064B53C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:41.582 | INFO     | crawler.crawler:run:215 - 采集第82页数据完成！
+2022-05-29 14:31:41.584 | INFO     | crawler.crawler:run:210 - 开始采集第83页数据！
+2022-05-29 14:31:45.591 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000821A2B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:45.595 | INFO     | crawler.crawler:run:215 - 采集第83页数据完成！
+2022-05-29 14:31:45.604 | INFO     | crawler.crawler:run:210 - 开始采集第84页数据！
+2022-05-29 14:31:49.623 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000008200668>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:49.626 | INFO     | crawler.crawler:run:215 - 采集第84页数据完成！
+2022-05-29 14:31:49.627 | INFO     | crawler.crawler:run:210 - 开始采集第85页数据！
+2022-05-29 14:31:53.637 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000821A198>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:53.639 | INFO     | crawler.crawler:run:215 - 采集第85页数据完成！
+2022-05-29 14:31:53.641 | INFO     | crawler.crawler:run:210 - 开始采集第86页数据！
+2022-05-29 14:31:57.657 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006BF1828>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:31:57.660 | INFO     | crawler.crawler:run:215 - 采集第86页数据完成！
+2022-05-29 14:31:57.661 | INFO     | crawler.crawler:run:210 - 开始采集第87页数据！
+2022-05-29 14:32:01.676 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007F9A320>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:01.679 | INFO     | crawler.crawler:run:215 - 采集第87页数据完成！
+2022-05-29 14:32:01.681 | INFO     | crawler.crawler:run:210 - 开始采集第88页数据！
+2022-05-29 14:32:05.698 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000008250160>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:05.702 | INFO     | crawler.crawler:run:215 - 采集第88页数据完成！
+2022-05-29 14:32:05.704 | INFO     | crawler.crawler:run:210 - 开始采集第89页数据！
+2022-05-29 14:32:09.723 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000007C29A58>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:09.726 | INFO     | crawler.crawler:run:215 - 采集第89页数据完成！
+2022-05-29 14:32:09.732 | INFO     | crawler.crawler:run:210 - 开始采集第90页数据！
+2022-05-29 14:32:13.764 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005990DD8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:13.807 | INFO     | crawler.crawler:run:215 - 采集第90页数据完成！
+2022-05-29 14:32:13.834 | INFO     | crawler.crawler:run:210 - 开始采集第91页数据！
+2022-05-29 14:32:17.877 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000063CBC88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:17.882 | INFO     | crawler.crawler:run:215 - 采集第91页数据完成！
+2022-05-29 14:32:17.886 | INFO     | crawler.crawler:run:210 - 开始采集第92页数据！
+2022-05-29 14:32:21.904 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000065862E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:21.907 | INFO     | crawler.crawler:run:215 - 采集第92页数据完成！
+2022-05-29 14:32:21.908 | INFO     | crawler.crawler:run:210 - 开始采集第93页数据！
+2022-05-29 14:32:25.929 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000080EF5C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:25.932 | INFO     | crawler.crawler:run:215 - 采集第93页数据完成！
+2022-05-29 14:32:25.934 | INFO     | crawler.crawler:run:210 - 开始采集第94页数据！
+2022-05-29 14:32:29.948 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006535FD0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:29.951 | INFO     | crawler.crawler:run:215 - 采集第94页数据完成！
+2022-05-29 14:32:29.953 | INFO     | crawler.crawler:run:210 - 开始采集第95页数据！
+2022-05-29 14:32:33.970 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006A42860>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:33.972 | INFO     | crawler.crawler:run:215 - 采集第95页数据完成！
+2022-05-29 14:32:33.974 | INFO     | crawler.crawler:run:210 - 开始采集第96页数据！
+2022-05-29 14:32:37.978 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006535898>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:37.984 | INFO     | crawler.crawler:run:215 - 采集第96页数据完成！
+2022-05-29 14:32:37.986 | INFO     | crawler.crawler:run:210 - 开始采集第97页数据！
+2022-05-29 14:32:41.995 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000657F390>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:41.999 | INFO     | crawler.crawler:run:215 - 采集第97页数据完成！
+2022-05-29 14:32:42.004 | INFO     | crawler.crawler:run:210 - 开始采集第98页数据！
+2022-05-29 14:32:46.015 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006BF19E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:46.019 | INFO     | crawler.crawler:run:215 - 采集第98页数据完成！
+2022-05-29 14:32:46.021 | INFO     | crawler.crawler:run:210 - 开始采集第99页数据！
+2022-05-29 14:32:50.034 | INFO     | crawler.crawler:run:214 - 采集异常，HTTPConnectionPool(host='127.0.0.1', port=55129): Max retries exceeded with url: /session/c01e74259c0a72a87df581e10622ccc0/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000008058240>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2022-05-29 14:32:50.037 | INFO     | crawler.crawler:run:215 - 采集第99页数据完成！
+2022-05-29 14:32:50.040 | INFO     | crawler.crawler:run:210 - 开始采集第100页数据！
